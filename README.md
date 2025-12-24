@@ -20,7 +20,8 @@
 
 
 
-***Задание 4
+*Задание 4
+
 <img width="631" height="399" alt="image" src="https://github.com/user-attachments/assets/82282ea5-368a-4ada-8cf0-f7eddb8b241a" />
 
 
