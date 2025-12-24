@@ -1,15 +1,15 @@
-###Задание 1
+# Задание 1
 
 <img width="956" height="484" alt="image" src="https://github.com/user-attachments/assets/af4bbe7f-2fc2-4cc8-9571-49f784c406a6" />
 
 
-#Задание 2
+# Задание 2
 
 <img width="935" height="77" alt="image" src="https://github.com/user-attachments/assets/09ca8852-b0ec-4820-9d5d-d2f7436a8516" />
 
 
 
-#Задание 3
+# Задание 3
 
 <img width="886" height="89" alt="image" src="https://github.com/user-attachments/assets/c99440ed-35c1-40b8-a6d8-531758ba6cb1" />
 
@@ -20,12 +20,12 @@
 
 
 
-*Задание 4
+# Задание 4
 
 <img width="631" height="399" alt="image" src="https://github.com/user-attachments/assets/82282ea5-368a-4ada-8cf0-f7eddb8b241a" />
 
 
-Задание 5
+# Задание 5
 
 <img width="720" height="54" alt="image" src="https://github.com/user-attachments/assets/07565328-f0e7-478f-9020-0e4b439baa07" />
 
