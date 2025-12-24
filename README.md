@@ -25,3 +25,10 @@
 <img width="631" height="399" alt="image" src="https://github.com/user-attachments/assets/82282ea5-368a-4ada-8cf0-f7eddb8b241a" />
 
 
+Задание 5
+
+<img width="720" height="54" alt="image" src="https://github.com/user-attachments/assets/07565328-f0e7-478f-9020-0e4b439baa07" />
+
+
+<img width="963" height="449" alt="image" src="https://github.com/user-attachments/assets/d5ba8540-8f81-4297-91f1-333dd8676007" />
+
